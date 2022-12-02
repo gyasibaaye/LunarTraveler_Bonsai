@@ -12,7 +12,7 @@ import gym
 import numpy as np
 import copy
 
-from sim.log_feature import SimLogger
+from log_feature import SimLogger
 
 
 class LunarLander:

@@ -1,4 +1,4 @@
-from sim.LunarLander import LunarLander
+import LunarLander
 from typing import NamedTuple, Dict, Any, Union
 
 
